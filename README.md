@@ -1,6 +1,7 @@
 # 知来 文章归档
 
 - [百科常识（1篇）](./docs/baike/)
+- [花语花艺（1篇）](./docs/huayu/)
 - [健康生活（1篇）](./docs/jiankang/)
 - [梦境解析（1篇）](./docs/jiemeng/)
 - [节日民俗（1篇）](./docs/jieri/)
