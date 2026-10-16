@@ -6,7 +6,7 @@
 - [梦境解析（1篇）](./docs/jiemeng/)
 - [节日民俗（1篇）](./docs/jieri/)
 - [历史故事（1篇）](./docs/lishi/)
-- [萌宠日常（1篇）](./docs/mengchong/)
+- [萌宠日常（2篇）](./docs/mengchong/)
 - [生活巧思（1篇）](./docs/qiaosi/)
 - [亲子育儿（1篇）](./docs/yuer/)
 - [自然科普（1篇）](./docs/ziran/)
