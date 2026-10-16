@@ -9,4 +9,4 @@
 - [萌宠日常（3篇）](./docs/mengchong/)
 - [生活巧思（3篇）](./docs/qiaosi/)
 - [亲子育儿（2篇）](./docs/yuer/)
-- [自然科普（2篇）](./docs/ziran/)
+- [自然科普（3篇）](./docs/ziran/)
