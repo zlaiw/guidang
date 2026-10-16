@@ -1,6 +1,6 @@
 # 知来 文章归档
 
-- [百科常识（2篇）](./docs/baike/)
+- [百科常识（3篇）](./docs/baike/)
 - [花语花艺（2篇）](./docs/huayu/)
 - [健康生活（2篇）](./docs/jiankang/)
 - [梦境解析（2篇）](./docs/jiemeng/)
