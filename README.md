@@ -8,5 +8,5 @@
 - [历史故事（1篇）](./docs/lishi/)
 - [萌宠日常（4篇）](./docs/mengchong/)
 - [生活巧思（4篇）](./docs/qiaosi/)
-- [亲子育儿（3篇）](./docs/yuer/)
+- [亲子育儿（4篇）](./docs/yuer/)
 - [自然科普（4篇）](./docs/ziran/)
